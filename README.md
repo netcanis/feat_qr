@@ -39,8 +39,7 @@ This module is compatible with **iOS 16 and above** and designed for seamless in
 
 1. Open your project in **Xcode**.
 2. Navigate to **File > Add Packages...**.
-3. Enter the repository URL:  
-   `https://github.com/netcanis/feat_qr.git`
+3. Enter the repository URL:  https://github.com/netcanis/feat_qr.git
 4. Select the version and integrate the package into your project.
 
 ---
